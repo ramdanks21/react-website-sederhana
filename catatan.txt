@@ -1,0 +1,10 @@
+ --- semua yang di pelajari disi ----
+
+referensi file HTML =
+https://gist.github.com/dirumahrafif/0b363c3453f3139a2707b88fa77edd23
+referensi file CSS =
+https://gist.github.com/dirumahrafif/8b47dc70f894c14e2d095897446176c1
+confer text object to html agar bisa direndier gunakan - npm install html-react-parser
+
+ - npm install parse :
+    digunakan untuk mengerate tag html dari text ke html murni jadi ketika dirender ke browser tampil html nya bukan text saja
